@@ -5,7 +5,7 @@ Built with React and powered by the CoinGecko API, it provides up-to-date data o
 
 ## 🚀 Live Demo
 
-
+https://cryptomarket-k0h70pf7m-vishals-projects-edb23af6.vercel.app/
 
 ## ⚙️ Features
 
